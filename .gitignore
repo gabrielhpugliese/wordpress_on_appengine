@@ -1,0 +1,6 @@
+.project
+.pydevproject
+*~
+project/php/
+project/wordpress/
+google_appengine/
