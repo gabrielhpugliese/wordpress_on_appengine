@@ -3,6 +3,8 @@ version: wp
 runtime: php
 api_version: 1
 
+default_expiration: "1d"
+
 handlers:
 - url: /(.*\.(htm$|html$|css$|js$))
   static_files: wordpress/\1
