@@ -14,3 +14,5 @@ cd project
 tar -xvzf php.tar.gz 
 tar -xvzf wordpress.tar.gz
 rm php.tar.gz wordpress.tar.gz
+
+echo "WP on GAE installation finished. Now run 'bash run.sh' to start the server."

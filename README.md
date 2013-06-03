@@ -9,7 +9,7 @@ https://developers.google.com/appengine/articles/wordpress
 
 Notes (READ FIST): 
 
-The project includes php-5.4.15 binary that must be used with GAE PHP SDK, Wordpress 3.5.1, scripts for installation and appengine required files (app.yaml, php.ini etc). The SDK will install via script.
+The project includes php-5.4.15 binary that must be used with GAE PHP SDK, Wordpress 3.5.1 with batcache and memcached plugins, scripts for installation and appengine required files (app.yaml, php.ini etc). The SDK will install via script.
 
 If you want to deploy it to App Engine, register your application first:
 https://gaeforphp.appspot.com/
@@ -29,3 +29,5 @@ Running
 In the project root folder, run:
 
 ```bash run.sh```
+
+Go to http://localhost:8080/ to see WP. Go to http://localhost:8000/ to see GAE console.
