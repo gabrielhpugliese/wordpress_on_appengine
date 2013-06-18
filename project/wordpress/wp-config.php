@@ -18,7 +18,8 @@
 define('WP_CACHE', true);
 $batcache = [
     'seconds' => 0,
-    'max_age' => 60 * 30,  // 30 minutes.
+    'debug' => false,
+    'max_age' => 60 * 30  // 30 minutes.
 ];
 
 // ** MySQL settings - You can get this info from your web host ** //

@@ -1,4 +1,4 @@
-application: mywordpress
+application: wp-on-gae
 version: wp
 runtime: php
 api_version: 1
