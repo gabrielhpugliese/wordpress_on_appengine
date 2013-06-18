@@ -52,4 +52,4 @@ On the tab `Google Cloud Platform` make sure Google Cloud Storage and Google Clo
 * [Uploading Your Application](https://developers.google.com/appengine/docs/php/gettingstarted/uploading)
 * [Google Cloud SQL CLI](https://developers.google.com/cloud-sql/docs/commandline)
 
-Thanks for Stuart Langley that helped me with plugins and many other things.
+Thanks for [sjlangley](https://github.com/sjlangley) that helped me with plugins and many other things.
