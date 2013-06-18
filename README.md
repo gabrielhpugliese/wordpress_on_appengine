@@ -40,6 +40,9 @@ The email address is the one that you copied in App Engine. Save it.
 5. Go to [Console API](https://code.google.com/apis/console). Find your created project on the left nav bar and go to Services.
 On the tab `Google Cloud Platform` make sure Google Cloud Storage and Google Cloud SQL is both `ON`
 6. Enable billing on the left nav.
+
+### Deploying
+
 7. Go to your terminal and run `deploy.sh`
 
 ### Docs
