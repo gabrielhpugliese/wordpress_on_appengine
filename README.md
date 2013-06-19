@@ -3,7 +3,7 @@ Wordpress on App Engine
 
 It's fast boilerplate of [Google's steps to deploy WP in GAE](https://developers.google.com/appengine/articles/wordpress)
 
-See also: [GAE for PHP Blog](http://gaeforphp-blog.appspot.com/)
+Demo: [GAE for PHP Blog](http://gaeforphp-blog.appspot.com/)
 
 ## Notes (READ FIRST): 
 
